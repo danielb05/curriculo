@@ -29,7 +29,7 @@ Mini curso de git da semana de eng da Facens (abr. 2016)
 
 ## Principais Repositórios
 
-- [Repositório 1](http://facebook.com)
+- [Repositório 1](http://google.com)
 - [Repositório 2](http://google.com)
-- [Repositório 3](http://facens.br)
+- [Repositório 3](http://google.com)
 
