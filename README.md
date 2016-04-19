@@ -32,4 +32,4 @@ Mini curso de git da semana de eng da Facens (abr. 2016)
 - [Repositório 1](http://facebook.com)
 - [Repositório 2](http://google.com)
 - [Repositório 3](http://facens.br)
-- [Repositório 4](http://facens.br)
+
