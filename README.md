@@ -16,11 +16,19 @@ Mini curso de git da semana de eng da Facens (abr. 2016)
 - Dezembro 2015 - Abril 2016 - Team Leader do time FACENS Brazil no projeto internacional de cooperação da NASA (The National Aeronautics and Space Administration), o SEE2016;
 - Julho 2015 - Dezembro 2015 - Estágion no Instituto Fraunhofer IPT (Institut fur Produktionstechnologie), trabalhando com desenvolvimento Android, IoT e tecnologias RFID;
 
-## Language Skills
+## Skills
+
+### Languages
 
 - Português: Nativo;
-- Inglês: C1 - Certificados: TOEFL 105 pontos, Cambridge Certificate;
+- Inglês: C1 - Certificados: TOEFL 105 pontos, Cambridge Certificate;  
 - Alemão: C1 - Certificados: TELC;
 - Espanhol: B1;
 
 * Níveis seguindo o padrão CEFR (Common European Framework of Reference for Languages)
+
+## Principais Repositórios
+
+- [Repositório 1](http://facens.br)
+- [Repositório 2]()
+- [Repositório 3]()
