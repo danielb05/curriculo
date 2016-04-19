@@ -19,8 +19,8 @@ Mini curso de git da semana de eng da Facens (abr. 2016)
 ## Language Skills
 
 - Português: Nativo;
-- Inglês: C1;
-- Alemão: C1;
+- Inglês: C1 - Certificados: TOEFL 105 pontos, Cambridge Certificate;
+- Alemão: C1 - Certificados: TELC;
 - Espanhol: B1;
 
 * Níveis seguindo o padrão CEFR (Common European Framework of Reference for Languages)
